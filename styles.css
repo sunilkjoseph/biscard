@@ -5,7 +5,9 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    background: url("images/bgimg1.jpg");
+    background-size: cover;
 }
 
 .avatar {
